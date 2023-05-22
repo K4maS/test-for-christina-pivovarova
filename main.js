@@ -81,9 +81,3 @@ console.log(`Вводные данные:
 
 Результат: ${fullPrice(products)}
 `)
-
-document.addEventListener('DOMContentLoaded', () => {
-    const app = document.getElementById('app');
-    const listInput = document.createElement('input');
-    const listParagrph = 
-})
